@@ -24,7 +24,7 @@ This probably sounds like a weird title, but bear with me.
 
 (Yes, like the planet)
 
-^ 
+^
 First of all, I should introduce myself so you know whether you should take anything I say seriously. I'm Mars.
 
 ---
@@ -52,13 +52,13 @@ I didn't start out in technology. I actually had a terrible time in high school 
 # [fit] 🥤🍔🍟
 
 ^
-And after that I worked a bunch of odd jobs I hated in hospitality, gaming, entertainment. Worked mostly at night, ate junk food, never had time for fun or hobbies and got very overweight. Unsurprisingly, my lack of happiness did not improve. 
+And after that I worked a bunch of odd jobs I hated in hospitality, gaming, entertainment. Worked mostly at night, ate junk food, never had time for fun or hobbies and got very overweight. Unsurprisingly, my lack of happiness did not improve.
 
 ---
 
 ![](assets/hobart.jpg)
 
-^ 
+^
 But at the end of 2015 my family and I moved to Hobart and everyone told me there were no jobs here (they were wrong, but whatever) so I figured I may as well have a go at uni. What was the worst that could happen? I could fail and then go get a job anyway.
 
 ---
@@ -73,7 +73,7 @@ But my whole life changed from there.
 ![](assets/upp.png)
 
 ^
-I started out in the University Preparation Program--because I hadn't been in school for a long time and was worried I would need to re-adjust to the format--and the faculty were all so supportive and awesome and invested in everyone doing well. 
+I started out in the University Preparation Program--because I hadn't been in school for a long time and was worried I would need to re-adjust to the format--and the faculty were all so supportive and awesome and invested in everyone doing well.
 
 ^
 It was free and fun and it made me a better student, and if I had the choice I would definitely do it again. If you do well in your first semester then you only have to do one, and it means by the time you start your degree you are familiar and confident with how uni works.
@@ -82,8 +82,8 @@ It was free and fun and it made me a better student, and if I had the choice I w
 
 ![](assets/centenary.jpg)
 
-^ 
-Then I finished that and I still didn't really know what I wanted to do but I had classes in the ICT building here and people always looked like they were having fun in the computer labs when I walked past, so I picked that as my degree. I didn't know one thing about programming but I could generally solve the problems my parents had with computers. Seemed like no worse a reason than any other to pick a degree. 
+^
+Then I finished that and I still didn't really know what I wanted to do but I had classes in the ICT building here and people always looked like they were having fun in the computer labs when I walked past, so I picked that as my degree. I didn't know one thing about programming but I could generally solve the problems my parents had with computers. Seemed like no worse a reason than any other to pick a degree.
 
 ---
 
@@ -144,7 +144,7 @@ There used to be only two Majors to choose from in ICT: Software Development or 
 ![](assets/electives.png)
 
 ^
-Investigate your options for electives. In your degree you'll get up to five empty unit slots for breadth units and electives. There are literally thousands of options to choose from. Most electives are some unit from another degree that you can do if you have mixed interests, and that's great. But there are some really interesting ones. 
+Investigate your options for electives. In your degree you'll get up to five empty unit slots for breadth units and electives. There are literally thousands of options to choose from. Most electives are some unit from another degree that you can do if you have mixed interests, and that's great. But there are some really interesting ones.
 
 ---
 
@@ -197,6 +197,9 @@ But the best thing you can do within your degree is get to know the faculty staf
 * Yes, even the weird ones
 * Make connections with everyone you can
 
+^
+To recap: you should pick a major that matters to you, make sure to investigate all your options for electives options and making connections with people can be invaluable.
+
 ---
 
 # [fit] 2. At UTAS
@@ -213,7 +216,7 @@ UTAS has a bunch of facilities, but they're sometimes hard to discover. So there
 ![](assets/events.png)
 
 ^
-Linked from that page is also the UTAS events listing, which has everything from meetups to industry networking meetings and expert talks. Almost everything is free but because it's on the website they're sometimes not well advertised anywhere else. So it's definitely worthwhile a look every so often.
+Linked from that page is also the UTAS events listing, which has everything from meetups to industry networking events and expert talks. Almost everything is free but because it's on the website they're sometimes not well advertised anywhere else. So it's definitely worthwhile a look every so often. I have stumbled upon some gems in my time.
 
 ---
 
@@ -227,28 +230,28 @@ UTAS also has a number of societies, run through the Tasmanian University Union.
 ![](assets/tuts.png)
 
 ^
-The nerdy ones that are stereotypically popular in ICT are like the eSports society, where you can find people to play games with or against or even join pro teams, the Anime and pop culture societies, or the Tabletop Gaming and Pen-and-Paper role-play societies. 
+The nerdy ones that are stereotypically popular in ICT are like the eSports society, where you can find people to play games with or against or even join pro teams, the Anime and pop culture societies, or the Tabletop Gaming and Pen-and-Paper roleplay societies.
 
 ---
 
 ![](assets/heft.jpg)
 
 ^
-There's even HEFT, the society where people dress up in medieval garb and fight each other with real swords. And also ICT has its own society for people into tech, called the TECH society, and there's also DataTas which is a society about Data Science where people meet for cupcakes and debug each other's code. So many options!
+There's even HEFT, the society where people dress up in medieval garb and fight each other with real swords. And also ICT has its own society for people into tech, called the TECH society, and I just found out about DataTas which is a society about Data Science where people meet for cupcakes and debug each other's code. So many options!
 
 ---
 
 ![](assets/ambassadors.png)
 
 ^
-Some groups are more focused on helping other. Like how you can become a student ambassador or join the Ally Network.
+Some groups are more focused on helping others. Like how you can become a student ambassador or join the Ally Network.
 
 ---
 
 ![](assets/awards.png)
 
 ^
-For those looking to buff their resume or takeoff some of the pressure of working through university, UTAS offers a wide array of scholarships and awards that you can browse and apply for through one handy web portal. Some have surprisingly simple criteria, and any you win will go on your transcript and graduation certificate forever.
+For those looking to buff their resume or take off some of the pressure of working through university, UTAS offers a wide array of scholarships and awards that you can browse and apply for through one handy web portal. Some have surprisingly simple criteria, and any you win will go on your transcript and graduation certificate forever.
 
 ---
 
@@ -268,11 +271,14 @@ And for those that want to see the world, there are a bunch of programs, units a
 
 # Recap: at UTAS
 
-* Be on the lookout for events
 * Take full advantage of UTAS facilities
+* Be on the lookout for events
 * Join a society if there's one that interests you
 * Check for scholarships and awards
 * Go overseas if you want, even while studying!
+
+^
+To recap: UTAS has a bunch of facilities, events, groups and incentives to suit a huge range of people. Many are a bit weird to find on their very large and content-packed website, but now you know they're there.
 
 ---
 
@@ -283,7 +289,7 @@ And for those that want to see the world, there are a bunch of programs, units a
 ![](assets/acs.png)
 
 ^
-The body associated with this event today, the Australian Computer Society, is an industry body that is headquartered in Sydney and has a branch in each state that works to enrich the tech industry. They work with the government on tech policy, they run campaigns and release publications to inform the public on tech issues and run events and certification schemes to benefit the community. Here in Tasmania, a significant portion of our initiatives focus on improving tech education: running events that benefit students during their studies and aid in their finding employment afterwards.
+One I am associated with is the Australian Computer Society, is an industry body that is headquartered in Sydney and has a branch in each state that works to enrich the tech industry. They work with the government on tech policy, they run campaigns and release publications to inform the public on tech issues and run events and certification schemes to benefit the community. Here in Tasmania, a significant portion of our initiatives focus on improving tech education: running events that benefit students during their studies and aid in their finding employment afterwards.
 
 ^
 If you're a student, membership fees are very cheap and pay themselves off quickly in free events and online resources.
@@ -334,6 +340,9 @@ There are also a bunch of events which as a university student won't be for you,
 * All of these are great ways to meet mentors and make friends, some of who may be the same people
 * Paying it forward is super rewarding too!
 
+^
+To recap: Hobart is full of industry bodies and community groups, they throw events and this is the best way to meet people and broaden your horizons. Meeting people ahead of you in their career can do wonders, but one day you might turn around and find yourself being that to others.
+
 ---
 
 # [fit] 4. In General
@@ -343,7 +352,7 @@ There are also a bunch of events which as a university student won't be for you,
 ![](assets/confs.png)
 
 ^
-Further abroad are things like Australian conferences that offer scholarships for students or by successful application. Writing a short piece about who you are and how you would benefit from going might win you a free trip to places like Melbourne International Games Week events like PAX and GCAP where you can mingle with real game developers, or developer and data science conferences like YOW!, PyCon, LinuxConf or Devworld. 
+Further abroad are things like Australian conferences that offer scholarships for students or by successful application. Writing a short piece about who you are and how you would benefit from going might win you a free trip to places like Melbourne International Games Week events like PAX and GCAP where you can mingle with real game developers, or developer and data science conferences like YOW!, PyCon, LinuxConf or Devworld.
 
 ^
 I went from volunteering at Devworld in 2016 to not helping run it this year and last, and went from getting a scholarship to LinuxConf in 2017 to speaking at a YOW! Conference this month.
@@ -359,7 +368,7 @@ I've made hundreds of friends, some of whom are shockingly important, been all o
 But what would you be in ICT for if not to broaden your horizons _with_ technology? All the opportunities that exist here can be found elsewhere on the internet. But since you can't go to events and shake hands to become known within an online community, being known online becomes about creating an online presence. Every time you get excited by what you learned in programming class and make something silly in your own time, put it up on the internet and show people.
 
 ^
-Go to places like GitHub where other people post things they're working on and bits they're like help with, and just have a go at helping. 
+Go to places like GitHub where other people post things they're working on and bits they'd like help with, and just have a go at helping.
 
 ^
 Or go on Stack Overflow, a website where people post questions about programming problems they're struggling with, and respond to ones you know the answer to.
@@ -369,7 +378,14 @@ Sites like this are bustling communities of people help each other work on side 
 
 ---
 
-# [fit] More other things than 
+![](assets/gsoc.png)
+
+^
+There are more formal open collaboration programs, like Google's Summer of Code program where big businesses sign up with problems for students to solve. And for the more competitive types, Programming Competitions are on the rise.
+
+---
+
+# [fit] More other things than
 # [fit] you can imagine!
 
 ^
@@ -377,10 +393,17 @@ And there are so many more things you can do. Opportunities and being visible an
 
 ---
 
-![](assets/me.png) 
+![](assets/me.png)
 
 ^
 I had conference scholarships lead to jobs, community meetups lead to other conference scholarships, networking lead to writing a book, online connections leading to featured interviews, more things than I can count.
+
+---
+
+![](assets/people.png)
+
+^
+I've made hundreds of friends, some of whom are shockingly important, been all over the world and learned twice what I would have by just staying here, going to class and doing my degree by itself. And I only did some of the things I talked about, I would have done them all if I had the time.
 
 ---
 
@@ -391,12 +414,15 @@ I had conference scholarships lead to jobs, community meetups lead to other conf
 * You can make things other people can't. Make sure you show them off!
 * Just because you are surrounded by people with similar expertise, don't forget you are becoming an expert!
 
+^
+To recap: just because you're at uni, doesn't mean things people do once they're career technologists are closed to you. Lots of things welcome students. You can go to conferences and be part of projects--or start your own projects--and play the part of an expert much earlier than you may think.
+
 ---
 
 ![](assets/house.jpg)
 
 ^
-And one final piece of advice: revel in your successes because not everything you try will be one. This is the corner of my office at home where I put up everything I'm proud of and on days where I have a lot of homework and everything seems really hard, I look up and it keeps me going. 
+And one final piece of advice: revel in your successes because not everything you try will be one. This is the corner of my office at home where I put up everything I'm proud of and on days where I have a lot of homework and everything seems really hard, I look up and it keeps me going.
 
 ---
 
