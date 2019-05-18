@@ -9,4 +9,4 @@ BiG Day In events are held on University campuses around Australia (where possib
 
 Though they contain works of the Public Domain and CC0 origin, the collated presentation materials are licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
-Materials contain personal infromation and are provided primarily for audience memebers in attanedance on the day, for people to recap and learn from.
+Materials contain personal information and are provided primarily for audience members in attendance on the day, to recap and learn from.
