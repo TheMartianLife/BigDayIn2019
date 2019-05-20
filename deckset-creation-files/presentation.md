@@ -34,7 +34,7 @@ First of all, I should introduce myself so you know whether you should listen to
 ![](assets/graduation.jpg)
 
 ^
-And as you may be able to tell from my bio, I did an ICT degree.
+And as you may be able to tell from my bio, I did an ICT degree. This is me, I graduated last Christmas.
 
 ---
 
