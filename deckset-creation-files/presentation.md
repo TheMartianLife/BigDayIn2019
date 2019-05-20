@@ -433,6 +433,16 @@ There are more formal open collaboration programs, like Google's Summer of Code 
 
 ---
 
+![](assets/intern.png)
+
+^
+And if you're feeling really keen, or nervous about adjusting in your first big job after university, you can apply for an internship! Summer Internships are like extended work experience where you basically work for a company for usually 8-12 weeks, except they're very forgiving of your performance, they teach you things and most of the time you get paid.
+
+^
+Most big companies offer these, some I have encountered are with banks on the mainland, or with CSIRO right here in Sandy Bay. Canva, arguably Australia's biggest startup, has also just started offering positions.
+
+---
+
 # [fit] More other things than
 # [fit] you can imagine!
 
@@ -456,7 +466,7 @@ To recap: just because you're at uni, doesn't mean things people do once they're
 ![](assets/me.png)
 
 ^
-I had conference scholarships lead to jobs, community meetups lead to other conference scholarships, online connections leading to featured interviews, networking lead to writing a book, more things than I can count.
+I had conference scholarships lead to jobs, community meetups lead to other conference scholarships, online connections leading to featured interviews, networking lead to writing a book, more things than I can count. I've spoken at conferences with thousands of attendees.
 
 ---
 
@@ -466,7 +476,7 @@ I had conference scholarships lead to jobs, community meetups lead to other conf
 In the past three years I've made hundreds of friends, some of whom are shockingly important, been all over the world and learned twice what I would have by just staying here, going to class and doing my degree by itself.
 
 ^
-I only did some of the things I talked about, though I would have done them all if I had the time.
+I only did some of the things I talked about, though I would have done them all if I had the time. And I'm sure there were many more opportunities that I didn't even recognise.
 
 ---
 
